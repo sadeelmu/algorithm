@@ -36,4 +36,3 @@ void MergeSort(int data[], int first, int last){
     MergeSort(data, mid+1, last);
     Merge(data, first, mid, last);
 }
-
