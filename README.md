@@ -8,3 +8,4 @@ In addition to the connections, assume that LinkedIn also tracks and saves the e
 The code I implemented allows a user to discover how connected he/she is to some company.
 The function targets a specific input company and prints how far the user is in his connections from that company, and how many users he is connected to from that company at that level.
 
+Subsequent to the course, I have applied the concepts and methodolgies onto my work. 
